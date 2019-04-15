@@ -17,6 +17,10 @@ span {
 }
 
 ul {
-	
+	/*background-color: red;*/
+}
+
+ul li {
+	color: #484b4d;	
 }
 
